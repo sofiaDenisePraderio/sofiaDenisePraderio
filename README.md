@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sofiaDenisePraderio
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React with TypeScript
+- 🌱 I’m currently working in React with TypeScript
 - 💞️ I’m looking to collaborate on open source projects!
 - 📫 How to reach me -> https://www.linkedin.com/in/sofiapraderio/
 
